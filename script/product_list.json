@@ -1,0 +1,290 @@
+[
+    {
+        "image": "assets/71RdoeXxtrL 1.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "cart": "Add To Cart",
+        "name": "Breed Dry Dog Food",
+        "price": "$100",
+        "star": "assets/Three Star.png",
+        "bracket": "(35)"
+    },
+    {
+        "image": "assets/eos-250d-03-500x500 1 (1).png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "cart": "Add To Cart",
+        "name": "CANON EOS DSLR Camera",
+        "price": "$360",
+        "star": "assets/Four Star.jpg",
+        "bracket": "(95)"
+    },
+    {
+        "image": "assets/ideapad-gaming-3i-01-500x500 1.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "cart": "Add To Cart",
+        "name": "ASUS FHD Gaming Laptop",
+        "price": "$700",
+        "star": "assets/Five star.png",
+        "bracket": "(325)"
+    },
+    {
+        "image": "assets/curology-j7pKVQrTUsM-unsplash 1.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "cart": "Add To Cart",
+        "name": "Curology Product Set ",
+        "price": "$500",
+        "star": "assets/Four star.jpg",
+        "bracket": "(145)"
+    },
+    {
+        "image": "assets/Frame 608.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "isNewProduct": true,
+        "cart": "Add To Cart",
+        "name": "Kids Electric Car",
+        "price": "$960",
+        "star": "assets/Five star.png",
+        "bracket": "(65)",
+        "variants": [
+            {
+                "color": "#FB1314",
+                "borderColor": "#000000"
+            },
+            {
+                "color": "#DB4444"
+            }
+        ]
+    },
+    {
+        "image": "assets/Copa_Sense 1.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "cart": "Add To Cart",
+        "name": "Jr. Zoom Soccer Cleats",
+        "price": "$1160",
+        "star": "assets/Five star.png",
+        "bracket": "(35)",
+        "variants": [
+            {
+                "color": "#EEFF61",
+                "borderColor": "#000000"
+            },
+            {
+                "color": "#DB4444"
+            }
+        ]
+    },
+    {
+        "image": "assets/GP11_PRD3 1.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "isNewProduct": true,
+        "cart": "Add To Cart",
+        "name": "GP11 Shooter USB Gamepad",
+        "price": "$660",
+        "star": "assets/Four Half Star.png",
+        "bracket": "(55)",
+        "variants": [
+            {
+                "color": "#000000",
+                "borderColor": "#000000"
+            },
+            {
+                "color": "#DB4444"
+            }
+        ]
+    },
+    {
+        "image": "assets/698717_Z8A1X_3475_001_100_0000_Light-Reversible-quilted-satin-jacket 1.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "cart": "Add To Cart",
+        "name": "Quilted Satin Jacket",
+        "price": "$660",
+        "star": "assets/Four Half Star.png",
+        "bracket": "(55)",
+        "variants": [
+            {
+                "color": "#184A48",
+                "borderColor": "#000000"
+            },
+            {
+                "color": "#DB4444"
+            }
+        ]
+    },
+    {
+        "image": "assets/g92-2-500x500 1.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "cart": "Add To Cart",
+        "name": "HAVIT HV-G92 Gamepad",
+        "price": "$120",
+        "offer": "-40%",
+        "oldPrice": "$160",
+        "star": "assets/Five star.png",
+        "bracket": "(88)"
+    },
+    {
+        "image": "assets/ak-900-01-500x500 1.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "cart": "Add To Cart",
+        "name": "AK-900 Wired Keyboard",
+        "price": "$960",
+        "offer": "-30%",
+        "oldPrice": "$160",
+        "star": "assets/Four Star.jpg",
+        "bracket": "(75)"
+    },
+    {
+        "image": "assets/g27cq4-500x500 1.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "cart": "Add To Cart",
+        "name": "IPS LCD Gaming Monitor",
+        "price": "$370",
+        "offer": "-35%",
+        "oldPrice": "$160",
+        "star": "assets/Five Star.png",
+        "bracket": "(99)"
+    },
+
+    {
+        "image": "assets/gammaxx-l240-argb-1-500x500 1.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "cart": "Add To Cart",
+        "name": "RGB liquid CPU Cooler",
+        "price": "$160",
+        "oldPrice": "$160",
+        "star": "assets/Four Half Star.png",
+        "bracket": "(65)"
+    },
+
+    
+    {
+        "image": "assets/71RdoeXxtrL 1.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "cart": "Add To Cart",
+        "name": "Breed Dry Dog Food",
+        "price": "$100",
+        "star": "assets/Three Star.png",
+        "bracket": "(35)"
+    },
+    {
+        "image": "assets/eos-250d-03-500x500 1 (1).png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "cart": "Add To Cart",
+        "name": "CANON EOS DSLR Camera",
+        "price": "$360",
+        "star": "assets/Four Star.jpg",
+        "bracket": "(95)"
+    },
+    {
+        "image": "assets/ideapad-gaming-3i-01-500x500 1.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "cart": "Add To Cart",
+        "name": "ASUS FHD Gaming Laptop",
+        "price": "$700",
+        "star": "assets/Five star.png",
+        "bracket": "(325)"
+    },
+    {
+        "image": "assets/curology-j7pKVQrTUsM-unsplash 1.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "cart": "Add To Cart",
+        "name": "Curology Product Set ",
+        "price": "$500",
+        "star": "assets/Four star.jpg",
+        "bracket": "(145)"
+    },
+    {
+        "image": "assets/Frame 608.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "isNewProduct": true,
+        "cart": "Add To Cart",
+        "name": "Kids Electric Car",
+        "price": "$960",
+        "star": "assets/Five star.png",
+        "bracket": "(65)",
+        "variants": [
+            {
+                "color": "#FB1314",
+                "borderColor": "#000000"
+            },
+            {
+                "color": "#DB4444"
+            }
+        ]
+    },
+    {
+        "image": "assets/Copa_Sense 1.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "cart": "Add To Cart",
+        "name": "Jr. Zoom Soccer Cleats",
+        "price": "$1160",
+        "star": "assets/Five star.png",
+        "bracket": "(35)",
+        "variants": [
+            {
+                "color": "#EEFF61",
+                "borderColor": "#000000"
+            },
+            {
+                "color": "#DB4444"
+            }
+        ]
+    },
+    {
+        "image": "assets/GP11_PRD3 1.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "isNewProduct": true,
+        "cart": "Add To Cart",
+        "name": "GP11 Shooter USB Gamepad",
+        "price": "$660",
+        "star": "assets/Four Half Star.png",
+        "bracket": "(55)",
+        "variants": [
+            {
+                "color": "#000000",
+                "borderColor": "#000000"
+            },
+            {
+                "color": "#DB4444"
+            }
+        ]
+    },
+    {
+        "image": "assets/698717_Z8A1X_3475_001_100_0000_Light-Reversible-quilted-satin-jacket 1.png",
+        "heart": "assets/heart.svg",
+        "eye": "assets/Quick View.svg",
+        "cart": "Add To Cart",
+        "name": "Quilted Satin Jacket",
+        "price": "$660",
+        "star": "assets/Four Half Star.png",
+        "bracket": "(55)",
+        "variants": [
+            {
+                "color": "#184A48",
+                "borderColor": "#000000"
+            },
+            {
+                "color": "#DB4444"
+            }
+        ]
+    }
+    
+
+]
